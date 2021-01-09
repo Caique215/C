@@ -1,2 +1,2 @@
-# C
-primeiros passos em linguagens C
+# Calculdora
+Calculadora IMC javascript
