@@ -19,7 +19,7 @@ function imc () {
     }else if (valorIMC < 25) {
         classificacao = ' o peso ideal,parabéns.';
     }else if (valorIMC < 30) {
-       classificacao = 'levemente acima do peso.feche a boca!';
+       classificacao = 'levemente acima do peso.!';
     }else if (valorIMC < 35) {
         classificacao = ' com obesidade grau I.';
     }else if(valorIMC < 40) {
